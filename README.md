@@ -1,2 +1,2 @@
 # clara_ipop_test1
-Testing my setting up 
+This line is from Rstudio.
